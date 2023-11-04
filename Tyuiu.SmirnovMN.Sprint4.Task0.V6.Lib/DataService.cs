@@ -20,6 +20,7 @@ namespace Tyuiu.SmirnovMN.Sprint4.Task0.V6.Lib
                 }
             }
             return sum;
+
         }
     }
 }
