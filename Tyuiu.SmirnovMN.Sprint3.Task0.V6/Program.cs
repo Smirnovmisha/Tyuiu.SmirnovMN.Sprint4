@@ -12,6 +12,7 @@ namespace Tyuiu.SmirnovMN.Sprint3.Task0.V6
         static void Main(string[] args)
         {
             DataService dataService = new DataService();
+            
 
             Console.Title = "Спринт #4 | Выполнил: Смирнов М. Н. | ИИПБ-23-2";
             Console.WriteLine("***************************************************************************");
